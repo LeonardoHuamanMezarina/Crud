@@ -76,3 +76,8 @@ DELETE FROM Alumnos WHERE id = ?;
 
 ```
 * **Mensaje de éxito:** "Se eliminó correctamente el alumno".
+
+
+## Autor
+
+- Por [Leonardo HM](https://github.com/LeonardoHuamanMezarina)
