@@ -63,7 +63,7 @@ UPDATE Alumnos SET nombres = ?, apellidos = ? WHERE id = ?;
 ```
 * **Mensaje de éxito:** "Modificación exitosa".
 
-**3. Eliminar (Borrar Alumnos)**
+**4. Eliminar (Borrar Alumnos)**
 
 Elimina un alumno seleccionado por su ID.
 * **Proceso:**
